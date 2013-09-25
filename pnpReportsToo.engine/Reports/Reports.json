@@ -1,0 +1,25 @@
+﻿[
+	{
+		name: 'Product Reports', items: [
+			{ 
+				name: 'Products Report', 
+				description: 'A report of all products', 
+				path:"Reports/Products.rdl" 
+			},
+			{ 
+				name: 'Purchase Report', 
+				description: 'A report on purchases', 
+				path:"Reports/Purchase Report.rdl" 
+			}			
+		]
+	},
+	{
+		name: 'Other Report', items: [
+			{ 
+				name:'Sales Report',
+				description:'Sales report',
+				path:"Reports/Sales.rdl"
+			}		
+		]
+	}
+]

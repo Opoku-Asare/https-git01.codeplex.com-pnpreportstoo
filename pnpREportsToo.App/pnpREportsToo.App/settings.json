@@ -1,0 +1,3 @@
+﻿{
+	connectionString:'Data Source=.; Initial Catalog=LINQPadDb; Integrated Security=True'
+}

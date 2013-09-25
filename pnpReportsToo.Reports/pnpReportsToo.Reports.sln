@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "pnpReportsToo.Reports", "pnpReportsToo.Reports\pnpReportsToo.Reports.rptproj", "{85B769C7-252D-45AA-AFA5-BAE521415DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.Debug|Default.ActiveCfg = Debug
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.Debug|Default.Build.0 = DebugLocal
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.Debug|Default.Deploy.0 = DebugLocal
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.DebugLocal|Default.Build.0 = DebugLocal
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.Release|Default.ActiveCfg = Release
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.Release|Default.Build.0 = Release
+		{85B769C7-252D-45AA-AFA5-BAE521415DDF}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
